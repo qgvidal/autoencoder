@@ -1,6 +1,6 @@
 # A NOISE DENOISING AUTOENCODER IMPLEMENTED WITH KERAS
 
-Autoencoders are neural network models based. Their behavior and structure is really interesting. As you can see in the image above, the autoencoder structure is formed by two parts with the same shape: encoder and decoder.
+Autoencoders are neural network models based. Their behavior and structure is really interesting. As you can see in the image below, the autoencoder structure is formed by two parts with the same shape: encoder and decoder.
 
 ![alt text](https://github.com/qgvidal/autoencoder/blob/main/images/autoencoder.jpg)
 
